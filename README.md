@@ -1,6 +1,6 @@
 # 2048_python
 ## Overview
-This is a simple implementation of the popular 2048 game using Python and Tkinter for the GUI. The objective of the game is to slide numbered tiles on a grid to combine them and create a tile with the number 2048. The game ends when the grid is full, and no more moves can be made, or when the player successfully reaches the 2048 tile.
+This is my first Python project, a simple implementation of the popular 2048 game using Python and Tkinter for the GUI. The objective of the game is to slide numbered tiles on a grid to combine them and create a tile with the number 2048. The game ends when the grid is full, and no more moves can be made, or when the player successfully reaches the 2048 tile.
 
 ## How to Play
 Use the arrow keys (Up, Left, Down, Right) or the corresponding letters (W, A, S, D) to move the tiles in the respective direction.
@@ -18,6 +18,23 @@ Continue combining tiles until you reach the 2048 tile or until you cannot make 
 ## Requirements
 + Python 3.x
 + Tkinter (usually included in the standard library)
+
+## Getting Started
+
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/your_username/2048-game.git
+```
+2. Change into the project directory:
+```
+cd 2048-game
+```
+3. Run the game:
+```
+python main.py
+```
+4. Enjoy the game!
+
 
 ## Acknowledgments
 This implementation was inspired by the original 2048 game created by Gabriele Cirulli.
