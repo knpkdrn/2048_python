@@ -16,7 +16,7 @@ Continue combining tiles until you reach the 2048 tile or until you cannot make 
 - Customizable GUI: You can change the colors of the tiles and the grid easily by modifying the change_color function in the field.py file.
 
 ## Requirements
-+ Python 3.x
++ Python 3
 + Tkinter (usually included in the standard library)
 
 ## Getting Started
