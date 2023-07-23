@@ -23,7 +23,7 @@ Continue combining tiles until you reach the 2048 tile or until you cannot make 
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your_username/2048-game.git
+git clone https://github.com/knpkdrn/2048_python.git
 ```
 2. Change into the project directory:
 ```
