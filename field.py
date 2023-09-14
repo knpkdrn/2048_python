@@ -161,7 +161,8 @@ def print_to_screen(field, labels):
                 labels[i][j].config(text=field[i][j])
             change_color(labels[i][j], field[i][j])
     
-    score_label.config(text=f"SCORE:{score}\tHIGH SCORE:{high_score}")
+    if score_label != None:
+        score_label.config(text=f"SCORE:{score}\tHIGH SCORE:{high_score}")
     
 def show_popup(window, line, field):
     global label_coll, high_score, new_high_score
